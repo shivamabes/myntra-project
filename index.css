@@ -1,0 +1,162 @@
+.container{
+    width: 100%;
+    height: 70px;
+    /* display: inline-block; */
+    background-color: white;
+    position: sticky;
+}
+.container ul li{
+    /* display: inline-block;
+    cursor: pointer;
+    margin:26px 15px;
+    font-weight: bolder; */
+    display: inline-block;
+    cursor: pointer;
+    margin: 26px 19px;
+    font-weight: bolder;
+   
+}
+.container ul img{
+    /* float: left;
+    margin: 8px 0px;
+    padding: 0px;
+    width: 91px;
+    height: 55px;
+    display: inline */
+    padding-right: 36px;
+    float: left;
+    margin: 9px -56px;
+    padding: -1px 15px;
+    width: 91px;
+    height: 55px;
+    display: inline;
+}
+nav {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    position:fixed;
+  }
+header input[type='search']
+{
+    height: 45px;
+    width: 280px;
+    background-color: rgb(243, 244, 244);
+    border: 2.5px solid rgb(243, 244, 244);
+    margin-left: 90px;
+   
+   
+}
+#img1{
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 18px auto;
+}
+#img2{
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 18px auto;    
+}
+ #img3{
+    width: 90%;
+    height: 150px;
+    display: block;
+    margin: 18px auto;   
+}
+.box{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    /* border: 2px solid red; */
+   margin: 12px auto;
+}
+.dabba{
+    width: 10%;
+    height:200px ;
+    display: inline-block;
+    /* border: 1px solid grey; */
+    flex-direction: row;
+}
+#box1{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/4d76fbbe-d72b-4df3-86f9-59e7152b66b51559216916400-women-category-cards_04_kurta_Sets.jpg');
+    /* overflow: hidden; */
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;
+    margin-left: 0px;
+    padding: 0px;  
+}
+#box2{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box3{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box4{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box5{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box6{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box7{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/3fd040fc-431d-4060-9469-f0c11b7329121559216916380-women-category-cards_06_tshirts.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;
+    margin-right: 0px;   
+}
+#box8{
+    background-image: url('https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/4/18/e2f79425-457d-449c-a073-13c9b1b6599b1681815057195-Shop-By-Category_27.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box9{
+    background-image: url('https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/4/18/5c9ab3d5-c8c4-4f94-904f-5d6063962de81681815057158-Shop-By-Category_28.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
+#box10{
+    background-image: url('https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg');
+    overflow: hidden; 
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+    background-size: cover;   
+}
